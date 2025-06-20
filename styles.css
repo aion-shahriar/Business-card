@@ -12,14 +12,7 @@ img {
     border-radius: 10px;
 }
 
-.hide {
-  display: none;
-}
-    
-img:hover + .hide {
-  display: block;
-  color: red;
-}
+
 
 .avatar {
     width: 150px;
